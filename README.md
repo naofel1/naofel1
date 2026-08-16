@@ -1,6 +1,8 @@
 # Naofel Bentayeb
 
-Founder & CEO, currently in stealth. Valedictorian of [42 Paris](https://42.fr).
+Founder. Valedictorian of [42 Paris](https://42.fr).
+
+Building at the intersection of software and preventive health.
 
 Backend & security — Go, Kubernetes, distributed systems. Previously YC-backed engineering; Certified Ethical Hacker.
 
