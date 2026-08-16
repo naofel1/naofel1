@@ -1,8 +1,6 @@
 # Naofel Bentayeb
 
-Founder. 42 Paris.
-
-Building a preventive health company in Paris.
+Building preventive health in Paris. 42 Paris.
 
 Backend & security — Go, Kubernetes, distributed systems. Previously Formal (YC); Certified Ethical Hacker.
 
