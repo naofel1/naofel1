@@ -1,9 +1,9 @@
 # Naofel Bentayeb
 
-Founder. Valedictorian of [42 Paris](https://42.fr).
+Founder. 42 Paris.
 
-Building at the intersection of software and preventive health.
+Building a preventive health company in Paris.
 
-Backend & security — Go, Kubernetes, distributed systems. Previously YC-backed engineering; Certified Ethical Hacker.
+Backend & security — Go, Kubernetes, distributed systems. Previously Formal (YC); Certified Ethical Hacker.
 
 [LinkedIn](https://www.linkedin.com/in/naobnt) · Paris
